@@ -4,7 +4,7 @@
 
 <p align="left">Welcome to my coding corner, where frontend mastery meets the thrilling adventure of backend exploration!</p>
 
-<p align="left">I'm Femi, and I thrive on crafting polished user experiences with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, and yes, Firebase too. Frontend is my playground, where I excel in bringing designs to life and creating seamless interactions that leave users in awe.</p>
+<p align="left">I'm Adeyemo Ayomide, and I thrive on crafting polished user experiences with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, and yes, Firebase too. Frontend is my playground, where I excel in bringing designs to life and creating seamless interactions that leave users in awe.</p>
 
 <p align="left">But you know what? I've got my eyes set on the horizon, ready to dive into the exciting realm of backend development. While I'm already familiar with Firebase and its wonders, I'm itching to explore even more backend technologies and broaden my skill set to become a true full-stack powerhouse.</p>
 
@@ -21,4 +21,4 @@
 <p align="left">He/Him</p>
 
 <h2 align="left">⚡ Fun Fact</h2>
-<p align="left">When I'm not immersed in code, you'll find me exploring the great outdoors, experimenting with culinary creations in the kitchen, or lost in the pages of a gripping novel.</p>
+<p align="left">When I'm not immersed in code, you'll find me crafting melodies on the saxophone and exploring harmonies on the keyboard. 🎷🎹</p>
