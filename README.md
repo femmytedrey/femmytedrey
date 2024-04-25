@@ -17,6 +17,9 @@
 <h2 align="left">📧 Let's Connect!</h2>
 <p align="left">Drop me a line at <a href="mailto:femmytedrey@gmail.com">femmytedrey@gmail.com</a> or find me on <a href="https://www.linkedin.com/in/ayomide-adeyemo-61865526b/">LinkedIn</a> to chat about how we can bring your vision to life.</p>
 
+<h2 align="left">🌐 Portfolio</h2>
+<p align="left">Explore my portfolio at [femidevport.netlify.app](https://femidevport.netlify.app/) to see my latest projects and creations!</p>
+
 <h2 align="left">😄 Pronouns</h2>
 <p align="left">He/Him</p>
 
