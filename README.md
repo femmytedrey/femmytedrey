@@ -8,7 +8,7 @@
 
 <p align="left">But you know what? I've got my eyes set on the horizon, ready to dive into the exciting realm of backend development. While I'm already familiar with Firebase and its wonders, I'm itching to explore even more backend technologies and broaden my skill set to become a true full-stack powerhouse.</p>
 
-<h2 align="left">🌱 About Me</h2>
+<h2 align="left">🚀 My Journey</h2>
 <p align="left">Currently, I'm on a journey of continuous learning and growth, eagerly soaking up new knowledge and honing my craft. Whether it's mastering the latest frontend frameworks or delving into the intricacies of backend databases, I approach every challenge with passion and determination.</p>
 
 <h2 align="left">💼 Collaboration</h2>
