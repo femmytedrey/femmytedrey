@@ -4,7 +4,7 @@
 
 <p align="left">Welcome to my coding corner, where frontend mastery meets the thrilling adventure of backend exploration!</p>
 
-<p align="left">I'm Adeyemo Ayomide, and I thrive on crafting polished user experiences with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, and yes, Firebase too. Frontend is my playground, where I excel in bringing designs to life and creating seamless interactions that leave users in awe.</p>
+<p align="left">I'm Adeyemo Ayomide, and I thrive on crafting polished user experiences with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React Js, and yes, Firebase too. Frontend is my playground, where I excel in bringing designs to life and creating seamless interactions that leave users in awe.</p>
 
 <p align="left">But you know what? I've got my eyes set on the horizon, ready to dive into the exciting realm of backend development. While I'm already familiar with Firebase and its wonders, I'm itching to explore even more backend technologies and broaden my skill set to become a true full-stack powerhouse.</p>
 
